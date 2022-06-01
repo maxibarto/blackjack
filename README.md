@@ -5,4 +5,4 @@
 
 # blackjack
 Play blackjack!<br />
-This is my second challenge accomplished taking the Frontend Career Path course at Scrimba.
+This is my second excercise taking the Frontend Career Path course at Scrimba.
