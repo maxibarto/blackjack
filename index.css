@@ -1,6 +1,17 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Helvetica, sans-serif;
-    background-image: url("images/table.png");
+    background-image: linear-gradient(
+        180deg,
+        hsl(117deg 100% 7%) 0%,
+        hsl(118deg 90% 8%) 13%,
+        hsl(120deg 86% 9%) 25%,
+        hsl(121deg 86% 11%) 37%,
+        hsl(120deg 83% 12%) 50%,
+        hsl(118deg 84% 13%) 63%,
+        hsl(115deg 87% 14%) 75%,
+        hsl(111deg 90% 15%) 87%,
+        hsl(107deg 95% 15%) 100%
+    );
     background-size: cover;
     font-weight: bold;
     color: white;
